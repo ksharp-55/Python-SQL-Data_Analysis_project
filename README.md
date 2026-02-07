@@ -11,7 +11,7 @@ This project implements a complete data analysis workflow using Python and SQL. 
 -Interactive dashboards and visualizations created with Tableau.
 
 ## Skills utilized
--Python (pandas, numpy, matplotlin, etc.)
+-Python (pandas, numpy, matplotlib, etc.)
 -SQL (quering and transforming data)
 -Exploratory Data Analysis (EDA)
 -Tableau (visualization and dashboards)
